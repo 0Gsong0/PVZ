@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Land
+  - Plant
+  - Zombie
   layers:
   - Default
   - TransparentFX
@@ -40,4 +43,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Plant
+    uniqueID: 3149891813
+    locked: 0
+  - name: Zombie
+    uniqueID: 1161634321
+    locked: 0
+  - name: Sun
+    uniqueID: 2299595411
     locked: 0
