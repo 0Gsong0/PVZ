@@ -1,0 +1,11 @@
+git status  查看状态
+git log 显示从最近到最远的提交日志
+git reset 回退
+
+输入：git add ./ 将文件添加到暂存库
+
+输入：git commit -m "Init unity project" 将文件提交到版本管理
+
+输入：git log 查看提交记录
+
+git push -u origin Leopard 上传Leopard分支
